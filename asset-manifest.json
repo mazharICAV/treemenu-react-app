@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/treemenu-react-apps/static/css/main.4f0e1f95.css",
+    "main.js": "/treemenu-react-apps/static/js/main.87f059b9.js",
+    "static/js/787.6804c560.chunk.js": "/treemenu-react-apps/static/js/787.6804c560.chunk.js",
+    "index.html": "/treemenu-react-apps/index.html",
+    "main.4f0e1f95.css.map": "/treemenu-react-apps/static/css/main.4f0e1f95.css.map",
+    "main.87f059b9.js.map": "/treemenu-react-apps/static/js/main.87f059b9.js.map",
+    "787.6804c560.chunk.js.map": "/treemenu-react-apps/static/js/787.6804c560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0e1f95.css",
+    "static/js/main.87f059b9.js"
+  ]
+}
