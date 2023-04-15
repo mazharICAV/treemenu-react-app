@@ -2,7 +2,7 @@
     "name": "dropdown",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://mazharICAV.github.io/treemenu-react-apps",
+    "homepage": "https://mazharICAV.github.io/treemenu-react-app",
     "dependencies": {
         "@fortawesome/fontawesome-free": "^6.4.0",
         "@fortawesome/fontawesome-svg-core": "^6.4.0",
