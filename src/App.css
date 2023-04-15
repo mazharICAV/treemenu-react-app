@@ -1,0 +1,39 @@
+/* .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-submenu {
+  position: relative;
+} */
+
+/* .dropdown-submenu .dropdown-content {
+  top: 0;
+  left: 100%;
+  margin-left: 0.5rem;
+  margin-top: -2.5rem;
+} */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-toggle {
+  background-color: #fff;
+  border: none;
+  color: #555;
+  padding: 0.5;
+}
+ul {
+  list-style: none;
+}
